@@ -4,7 +4,7 @@
 This app enables users to review questions.
 
 ### App Walk-though
-<img src="https://imgur.com/a/fH2GKGt" width=200><br>
+<img src="https://i.imgur.com/0B0lOu0.gif" width=200><br>
 
 
 
