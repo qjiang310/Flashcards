@@ -14,6 +14,7 @@
 		2F28683C21729226003AAF5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F28683A21729226003AAF5E /* LaunchScreen.storyboard */; };
 		2F28684721729226003AAF5E /* FlashcardsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F28684621729226003AAF5E /* FlashcardsTests.swift */; };
 		2F28685221729226003AAF5E /* FlashcardsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F28685121729226003AAF5E /* FlashcardsUITests.swift */; };
+		2F28686021850842003AAF5E /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F28685F21850842003AAF5E /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2F28684D21729226003AAF5E /* FlashcardsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlashcardsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F28685121729226003AAF5E /* FlashcardsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardsUITests.swift; sourceTree = "<group>"; };
 		2F28685321729226003AAF5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F28685F21850842003AAF5E /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				2F28683121729224003AAF5E /* AppDelegate.swift */,
 				2F28683321729224003AAF5E /* ViewController.swift */,
 				2F28683521729224003AAF5E /* Main.storyboard */,
+				2F28685F21850842003AAF5E /* CreationViewController.swift */,
 				2F28683821729226003AAF5E /* Assets.xcassets */,
 				2F28683A21729226003AAF5E /* LaunchScreen.storyboard */,
 				2F28683D21729226003AAF5E /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				2F28683421729224003AAF5E /* ViewController.swift in Sources */,
 				2F28683221729224003AAF5E /* AppDelegate.swift in Sources */,
+				2F28686021850842003AAF5E /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
